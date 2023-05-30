@@ -1,6 +1,6 @@
 const { Function, Scraper } = new (require('@neoxr/neoxr-js'))
 // Owner number
-global.owner = '628978613993'
+global.owner = '48459087475'
 // Owner name
 global.owner_name = '9kNatzz'
 // Database name (Default: database)
@@ -26,9 +26,9 @@ global.timezone = 'Asia/Jakarta'
 // Bot version
 global.version = '2.2.2',
 // Bot name
-global.botname = `© neoxr-bot v${global.version} (Public Bot)`
+global.botname = `© 9knatzz v${global.version} (Public Bot)`
 // Footer text
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɴᴇᴏxʀ ッ'
+global.footer = '© yamada Ryosuke ッ'
 // Scraper
 global.scrap = Scraper
 // Function
